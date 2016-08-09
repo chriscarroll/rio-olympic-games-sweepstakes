@@ -56,5 +56,12 @@ app.use(function(err, req, res, next) {
   });
 });
 
+app.get('/', function (req, res) {
+  res.send('Hello Rio!');
+});
+
+app.listen(3000, function () {
+  console.log('rio-olympic-games-sweepstakes listening on port 3000');
+});
 
 module.exports = app;
