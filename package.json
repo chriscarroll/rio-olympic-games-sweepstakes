@@ -2,7 +2,7 @@
   "name": "rio-olympic-games-sweepstakes",
   "version": "0.1.0",
   "description": "Website for the Rio 2016 Olympic Games Sweepstakes",
-  "author": "Chris Carroll",
+  "author": "Chris Carroll <chris.carroll1@gmail.com>",
   "scripts": {
     "start": "node ./bin/www"
   },
