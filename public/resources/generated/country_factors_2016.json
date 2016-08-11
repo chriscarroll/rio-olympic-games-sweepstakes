@@ -1,0 +1,427 @@
+[
+  {
+    "country": "United States",
+    "code": "(USA)",
+    "factor": "0.14556"
+  },
+  {
+    "country": "China",
+    "code": "(CHN)",
+    "factor": "0.17007"
+  },
+  {
+    "country": "Great Britain",
+    "code": "(GBR)",
+    "factor": "0.23148"
+  },
+  {
+    "country": "Russia",
+    "code": "(RUS)",
+    "factor": "0.22676"
+  },
+  {
+    "country": "South Korea",
+    "code": "(KOR)",
+    "factor": "0.52356"
+  },
+  {
+    "country": "Germany",
+    "code": "(GER)",
+    "factor": "0.40486"
+  },
+  {
+    "country": "France",
+    "code": "(FRA)",
+    "factor": "0.49751"
+  },
+  {
+    "country": "Australia",
+    "code": "(AUS)",
+    "factor": "0.49751"
+  },
+  {
+    "country": "Italy",
+    "code": "(ITA)",
+    "factor": "0.63291"
+  },
+  {
+    "country": "Hungary",
+    "code": "(HUN)",
+    "factor": "0.84746"
+  },
+  {
+    "country": "Japan",
+    "code": "(JPN)",
+    "factor": "0.52356"
+  },
+  {
+    "country": "Kazakhstan",
+    "code": "(KAZ)",
+    "factor": "1.11111"
+  },
+  {
+    "country": "Netherlands",
+    "code": "(NED)",
+    "factor": "0.87719"
+  },
+  {
+    "country": "Ukraine",
+    "code": "(UKR)",
+    "factor": "0.91743"
+  },
+  {
+    "country": "New Zealand",
+    "code": "(NZL)",
+    "factor": "1.17647"
+  },
+  {
+    "country": "Cuba",
+    "code": "(CUB)",
+    "factor": "1.16279"
+  },
+  {
+    "country": "Iran",
+    "code": "(IRI)",
+    "factor": "1.35135"
+  },
+  {
+    "country": "Jamaica",
+    "code": "(JAM)",
+    "factor": "1.38889"
+  },
+  {
+    "country": "Czech Republic",
+    "code": "(CZE)",
+    "factor": "1.56250"
+  },
+  {
+    "country": "North Korea",
+    "code": "(PRK)",
+    "factor": "2.17391"
+  },
+  {
+    "country": "Spain",
+    "code": "(ESP)",
+    "factor": "1.08696"
+  },
+  {
+    "country": "Brazil",
+    "code": "(BRA)",
+    "factor": "1.21951"
+  },
+  {
+    "country": "South Africa",
+    "code": "(RSA)",
+    "factor": "2.32558"
+  },
+  {
+    "country": "Ethiopia",
+    "code": "(ETH)",
+    "factor": "2.27273"
+  },
+  {
+    "country": "Croatia",
+    "code": "(CRO)",
+    "factor": "2.43902"
+  },
+  {
+    "country": "Belarus",
+    "code": "(BLR)",
+    "factor": "1.66667"
+  },
+  {
+    "country": "Romania",
+    "code": "(ROU)",
+    "factor": "1.96078"
+  },
+  {
+    "country": "Kenya",
+    "code": "(KEN)",
+    "factor": "1.81818"
+  },
+  {
+    "country": "Denmark",
+    "code": "(DEN)",
+    "factor": "2.04082"
+  },
+  {
+    "country": "Azerbaijan",
+    "code": "(AZE)",
+    "factor": "2.08333"
+  },
+  {
+    "country": "Poland",
+    "code": "(POL)",
+    "factor": "2.08333"
+  },
+  {
+    "country": "Switzerland",
+    "code": "(SUI)",
+    "factor": "3.33333"
+  },
+  {
+    "country": "Lithuania",
+    "code": "(LTU)",
+    "factor": "3.22581"
+  },
+  {
+    "country": "Norway",
+    "code": "(NOR)",
+    "factor": "3.57143"
+  },
+  {
+    "country": "Tunisia",
+    "code": "(TUN)",
+    "factor": "4.34783"
+  },
+  {
+    "country": "Canada",
+    "code": "(CAN)",
+    "factor": "1.40845"
+  },
+  {
+    "country": "Sweden",
+    "code": "(SWE)",
+    "factor": "2.56410"
+  },
+  {
+    "country": "Colombia",
+    "code": "(COL)",
+    "factor": "2.70270"
+  },
+  {
+    "country": "Georgia",
+    "code": "(GEO)",
+    "factor": "2.94118"
+  },
+  {
+    "country": "Mexico",
+    "code": "(MEX)",
+    "factor": "2.94118"
+  },
+  {
+    "country": "Turkey",
+    "code": "(TUR)",
+    "factor": "4.34783"
+  },
+  {
+    "country": "Ireland",
+    "code": "(IRL)",
+    "factor": "3.70370"
+  },
+  {
+    "country": "Argentina",
+    "code": "(ARG)",
+    "factor": "4.76190"
+  },
+  {
+    "country": "Serbia",
+    "code": "(SRB)",
+    "factor": "4.76190"
+  },
+  {
+    "country": "Slovenia",
+    "code": "(SLO)",
+    "factor": "4.76190"
+  },
+  {
+    "country": "Dominican Republic",
+    "code": "(DOM)",
+    "factor": "6.66667"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "code": "(TRI)",
+    "factor": "5.26316"
+  },
+  {
+    "country": "Uzbekistan",
+    "code": "(UZB)",
+    "factor": "6.25000"
+  },
+  {
+    "country": "Latvia",
+    "code": "(LAT)",
+    "factor": "7.69231"
+  },
+  {
+    "country": "Algeria",
+    "code": "(ALG)",
+    "factor": "10.00000"
+  },
+  {
+    "country": "Bahamas",
+    "code": "(BAH)",
+    "factor": "10.00000"
+  },
+  {
+    "country": "Grenada",
+    "code": "(GRN)",
+    "factor": "10.00000"
+  },
+  {
+    "country": "Uganda",
+    "code": "(UGA)",
+    "factor": "10.00000"
+  },
+  {
+    "country": "Venezuela",
+    "code": "(VEN)",
+    "factor": "10.00000"
+  },
+  {
+    "country": "India",
+    "code": "(IND)",
+    "factor": "4.54545"
+  },
+  {
+    "country": "Mongolia",
+    "code": "(MGL)",
+    "factor": "5.26316"
+  },
+  {
+    "country": "Thailand",
+    "code": "(THA)",
+    "factor": "6.25000"
+  },
+  {
+    "country": "Egypt",
+    "code": "(EGY)",
+    "factor": "10.00000"
+  },
+  {
+    "country": "Slovakia",
+    "code": "(SVK)",
+    "factor": "7.14286"
+  },
+  {
+    "country": "Armenia",
+    "code": "(ARM)",
+    "factor": "9.09091"
+  },
+  {
+    "country": "Belgium",
+    "code": "(BEL)",
+    "factor": "9.09091"
+  },
+  {
+    "country": "Finland",
+    "code": "(FIN)",
+    "factor": "9.09091"
+  },
+  {
+    "country": "Bulgaria",
+    "code": "(BUL)",
+    "factor": "12.50000"
+  },
+  {
+    "country": "Estonia",
+    "code": "(EST)",
+    "factor": "12.50000"
+  },
+  {
+    "country": "Indonesia",
+    "code": "(INA)",
+    "factor": "12.50000"
+  },
+  {
+    "country": "Malaysia",
+    "code": "(MAS)",
+    "factor": "12.50000"
+  },
+  {
+    "country": "Puerto Rico",
+    "code": "(PUR)",
+    "factor": "12.50000"
+  },
+  {
+    "country": "Chinese Taipei",
+    "code": "(TPE)",
+    "factor": "12.50000"
+  },
+  {
+    "country": "Botswana",
+    "code": "(BOT)",
+    "factor": "20.00000"
+  },
+  {
+    "country": "Cyprus",
+    "code": "(CYP)",
+    "factor": "20.00000"
+  },
+  {
+    "country": "Gabon",
+    "code": "(GAB)",
+    "factor": "20.00000"
+  },
+  {
+    "country": "Guatemala",
+    "code": "(GUA)",
+    "factor": "20.00000"
+  },
+  {
+    "country": "Montenegro",
+    "code": "(MNE)",
+    "factor": "20.00000"
+  },
+  {
+    "country": "Portugal",
+    "code": "(POR)",
+    "factor": "20.00000"
+  },
+  {
+    "country": "Greece",
+    "code": "(GRE)",
+    "factor": "16.66667"
+  },
+  {
+    "country": "Moldova",
+    "code": "(MDA)",
+    "factor": "16.66667"
+  },
+  {
+    "country": "Qatar",
+    "code": "(QAT)",
+    "factor": "16.66667"
+  },
+  {
+    "country": "Singapore",
+    "code": "(SIN)",
+    "factor": "16.66667"
+  },
+  {
+    "country": "Afghanistan",
+    "code": "(AFG)",
+    "factor": 20
+  },
+  {
+    "country": "Bahrain",
+    "code": "(BRN)",
+    "factor": 20
+  },
+  {
+    "country": "Hong Kong",
+    "code": "(HKG)",
+    "factor": 20
+  },
+  {
+    "country": "Saudi Arabia",
+    "code": "(KSA)",
+    "factor": 20
+  },
+  {
+    "country": "Kuwait",
+    "code": "(KUW)",
+    "factor": 20
+  },
+  {
+    "country": "Morocco",
+    "code": "(MAR)",
+    "factor": 20
+  },
+  {
+    "country": "Tajikistan",
+    "code": "(TJK)",
+    "factor": 20
+  }
+]
