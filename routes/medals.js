@@ -3,18 +3,26 @@ var http = require('http');
 
 var router = express.Router();
 
-var options = {
-  host: 'www.medalbot.com',
-  path: '/api/v1/medals'
-};
+var HOST_URL = 'www.medalbot.com';
+var BASE_API_URL = '/api/v1/medals';
 
-/* GET medals listing. */
+/* GET medals listing */
 router.get('/', function(req, res, next) {
-  httpGet(options, function(statusCode, result) {
+  httpGet({host: HOST_URL, path: BASE_API_URL}, function(statusCode, result) {
     res.statusCode = statusCode;
-    res.send(JSON.stringify(result));
+    res.send(JSON.parse(result));
   });
 });
+
+/* GET medals listing by country (id param) */
+router.get('/:id', function(req, res, next) {
+  var id = req.params.id;
+  httpGet({host: HOST_URL, path: BASE_API_URL + '/' + id}, function(statusCode, result) {
+    res.statusCode = statusCode;
+    res.send(JSON.parse(result));
+  });
+});
+
 
 var httpGet = function(options, onResult) {
   var req = http.get(options, function(res) {
@@ -26,7 +34,7 @@ var httpGet = function(options, onResult) {
     });
 
     res.on('end', function() {
-      onResult(res.statusCode, JSON.parse(body));
+      onResult(res.statusCode, body);
     });
   });
 
