@@ -23,7 +23,6 @@ router.get('/:id', function(req, res, next) {
   });
 });
 
-
 var httpGet = function(options, onResult) {
   var req = http.get(options, function(res) {
     //console.log('STATUS: ' + res.statusCode);

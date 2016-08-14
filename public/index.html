@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="app">
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,23 +12,29 @@
   <!-- Custom style -->
   <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
-<div class="site-wrapper">
-  <div class="site-wrapper-inner">
-    <div class="cover-container">
-      <div class="masthead clearfix">
-        <div class="inner">
-          <h3 class="masthead-brand">Rio Sweepstakes Leaderboard</h3>
-          <nav>
-            <ul class="nav masthead-nav">
-              <li class="active"><a href="#">Home</a></li>
-            </ul>
-          </nav>
-        </div>
-      </div>
-      <div class="inner cover">
-        <h1 class="cover-heading">---Insert Leaderboard---</h1>
-      </div>
+<body ng-controller="mainController">
+<div class="inner">
+  <div class="panel panel-primary">
+    <div class="panel-heading">
+      <h3 class="panel-title">Rio 2016 Sweepstakes Leaderboard</h3>
+    </div>
+    <div class="panel-body" style="max-height: 400px; overflow-y: scroll;">
+      <table class="table table-responsive table-striped">
+        <thead>
+        <tr>
+          <th>#</th>
+          <th>Name</th>
+          <th>Points</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="person in results | orderBy: '-points'">
+          <td>{{$index+1}}</td>
+          <td>{{person.name}}</td>
+          <td>{{person.points}}</td>
+        </tr>
+        </tbody>
+      </table>
     </div>
   </div>
 </div>
@@ -38,5 +44,8 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
         integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
         crossorigin="anonymous"></script>
+<!-- AngularJS -->
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+<script src="js/core.js"></script>
 </body>
 </html>

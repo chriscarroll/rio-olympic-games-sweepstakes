@@ -21,7 +21,7 @@ readableStream.on('end', function() {
   console.log('*** factor json data created ***');
   console.log(JSON.stringify(factorData));
   fs.writeFile(path.join(__dirname, '../resources/generated/country_factors_2016.json'), JSON.stringify(factorData), function(err) {
-    if(err) {
+    if (err) {
       return console.log(err);
     }
     console.log('The file was saved!');
