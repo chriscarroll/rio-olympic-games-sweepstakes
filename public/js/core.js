@@ -49,7 +49,19 @@ app.controller('mainController', function($scope, $http, $q) {
       }
     }
     $q.all(urlCalls).then(function(results) {
-        // TODO: calculate points per person
+        //deferred.resolve(results);
+        for (var i= 0; i < $scope.results.length; i++) {
+          var points = 0;
+          angular.forEach($scope.results[i].countries, function(valueA, index) {
+            // TODO: replace with lodash find, ie: _.find(results, {countryId: value});
+            angular.forEach(results, function(valueB, index) {
+              if (valueB.countryId === valueA) {
+                points += valueB.points;
+              }
+            });
+          });
+          $scope.results[i].points = points;
+        }
       },
       function(errors) {
         deferred.reject(errors);

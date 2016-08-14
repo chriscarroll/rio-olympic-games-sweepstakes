@@ -1,6 +1,171 @@
 [
   {
-    "name": "Chris C",
+    "name": "Steve K",
+    "countries": [
+      "new-zealand",
+      "mongolia",
+      "egypt",
+      "bahrain",
+      "somalia",
+      "tuvalu"
+    ]
+  },
+  {
+    "name": "Steph",
+    "countries": [
+      "iran",
+      "slovenia",
+      "qatar",
+      "cambodia",
+      "paraguay",
+      "vietnam"
+    ]
+  },
+  {
+    "name": "Caroline",
+    "countries": [
+      "germany",
+      "trinidad-and-tobago",
+      "latvia",
+      "saint-kitts-and-nevis",
+      "seychelles",
+      "turkmenistan"
+    ]
+  },
+  {
+    "name": "Genevieve",
+    "countries": [
+      "great-britain",
+      "turkey",
+      "bulgaria",
+      "saint-vincent-and-the-grenadines",
+      "san-marino",
+      "tonga"
+    ]
+  },
+  {
+    "name": "Nooch",
+    "countries": [
+      "china",
+      "sweden",
+      "indonesia",
+      "andorra",
+      "angola",
+      "maldives"
+    ]
+  },
+  {
+    "name": "Caitlin",
+    "countries": [
+      "belarus",
+      "switzerland",
+      "chinese-taipei",
+      "british-virgin-islands",
+      "palau",
+      "papua-new-guinea"
+    ]
+  },
+  {
+    "name": "Cookie",
+    "countries": [
+      "russia",
+      "norway",
+      "greece",
+      "morocco",
+      "barbados",
+      "liechtenstein"
+    ]
+  },
+  {
+    "name": "Benny",
+    "countries": [
+      "canada",
+      "lithuania",
+      "thailand",
+      "belize",
+      "bermuda",
+      "mauritania"
+    ]
+  },
+  {
+    "name": "Adelaide",
+    "countries": [
+      "brazil",
+      "ethiopia",
+      "armenia",
+      "ecuador",
+      "iceland",
+      "peru"
+    ]
+  },
+  {
+    "name": "Derek",
+    "countries": [
+      "ukraine",
+      "mexico",
+      "algeria",
+      "bolivia",
+      "djibouti",
+      "namibia"
+    ]
+  },
+  {
+    "name": "Brendan",
+    "countries": [
+      "jamaica",
+      "denmark",
+      "dominican-republic",
+      "american-samoa",
+      "iraq",
+      "panama"
+    ]
+  },
+  {
+    "name": "Studdsy",
+    "countries": [
+      "hungary",
+      "argentina",
+      "slovakia",
+      "albania",
+      "guinea-bisseau",
+      "jordan"
+    ]
+  },
+  {
+    "name": "Lewy",
+    "countries": [
+      "japan",
+      "india",
+      "belgium",
+      "federated-states-of-micronesia",
+      "pakistan",
+      "independent-olympic-athletes"
+    ]
+  },
+  {
+    "name": "Crazy Tom",
+    "countries": [
+      "kazakhstan",
+      "colombia",
+      "singapore",
+      "eritrea",
+      "palestine",
+      "rwanda"
+    ]
+  },
+  {
+    "name": "Roisin",
+    "countries": [
+      "france",
+      "georgia",
+      "puerto-rico",
+      "fiji",
+      "nigeria",
+      "tanzania"
+    ]
+  },
+  {
+    "name": "Chris",
     "countries": [
       "kenya",
       "south-africa",
@@ -19,6 +184,17 @@
       "botswana",
       "bangladesh",
       "burundi"
+    ]
+  },
+  {
+    "name": "Footy Trip #2",
+    "countries": [
+      "italy",
+      "azerbaijan",
+      "uganda",
+      "portugal",
+      "sierra-leone",
+      "virgin-islands"
     ]
   }
 ]
