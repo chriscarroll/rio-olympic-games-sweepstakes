@@ -1,12 +1,12 @@
 var express = require('express');
+var path = require('path');
 var router = express.Router();
 
 var app = express();
 
-// GET home page
-// TODO: is this doing anything?
+// GET teams listing
 router.get('/', function(req, res, next) {
-  res.sendFile('index.html', {root: app.get('public')});
+  res.sendFile('teams_2016.json', {root: path.join(__dirname, '../public/resources/data')});
 });
 
 module.exports = router;

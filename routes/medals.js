@@ -6,7 +6,7 @@ var router = express.Router();
 var HOST_URL = 'www.medalbot.com';
 var BASE_API_URL = '/api/v1/medals';
 
-/* GET medals listing */
+// GET medals listing
 router.get('/', function(req, res, next) {
   httpGet({host: HOST_URL, path: BASE_API_URL}, function(statusCode, result) {
     res.statusCode = statusCode;
@@ -14,7 +14,7 @@ router.get('/', function(req, res, next) {
   });
 });
 
-/* GET medals listing by country (id param) */
+// GET medals listing by country (id param)
 router.get('/:id', function(req, res, next) {
   var id = req.params.id;
   httpGet({host: HOST_URL, path: BASE_API_URL + '/' + id}, function(statusCode, result) {
