@@ -1,426 +1,511 @@
 [
   {
     "country": "United States",
+    "countryId": "united-states",
     "code": "(USA)",
     "factor": "0.14556"
   },
   {
     "country": "China",
+    "countryId": "china",
     "code": "(CHN)",
     "factor": "0.17007"
   },
   {
     "country": "Great Britain",
+    "countryId": "great-britain",
     "code": "(GBR)",
     "factor": "0.23148"
   },
   {
     "country": "Russia",
+    "countryId": "russia",
     "code": "(RUS)",
     "factor": "0.22676"
   },
   {
     "country": "South Korea",
+    "countryId": "south-korea",
     "code": "(KOR)",
     "factor": "0.52356"
   },
   {
     "country": "Germany",
+    "countryId": "germany",
     "code": "(GER)",
     "factor": "0.40486"
   },
   {
     "country": "France",
+    "countryId": "france",
     "code": "(FRA)",
     "factor": "0.49751"
   },
   {
     "country": "Australia",
+    "countryId": "australia",
     "code": "(AUS)",
     "factor": "0.49751"
   },
   {
     "country": "Italy",
+    "countryId": "italy",
     "code": "(ITA)",
     "factor": "0.63291"
   },
   {
     "country": "Hungary",
+    "countryId": "hungary",
     "code": "(HUN)",
     "factor": "0.84746"
   },
   {
     "country": "Japan",
+    "countryId": "japan",
     "code": "(JPN)",
     "factor": "0.52356"
   },
   {
     "country": "Kazakhstan",
+    "countryId": "kazakhstan",
     "code": "(KAZ)",
     "factor": "1.11111"
   },
   {
     "country": "Netherlands",
+    "countryId": "netherlands",
     "code": "(NED)",
     "factor": "0.87719"
   },
   {
     "country": "Ukraine",
+    "countryId": "ukraine",
     "code": "(UKR)",
     "factor": "0.91743"
   },
   {
     "country": "New Zealand",
+    "countryId": "new-zealand",
     "code": "(NZL)",
     "factor": "1.17647"
   },
   {
     "country": "Cuba",
+    "countryId": "cuba",
     "code": "(CUB)",
     "factor": "1.16279"
   },
   {
     "country": "Iran",
+    "countryId": "iran",
     "code": "(IRI)",
     "factor": "1.35135"
   },
   {
     "country": "Jamaica",
+    "countryId": "jamaica",
     "code": "(JAM)",
     "factor": "1.38889"
   },
   {
     "country": "Czech Republic",
+    "countryId": "czech-republic",
     "code": "(CZE)",
     "factor": "1.56250"
   },
   {
     "country": "North Korea",
+    "countryId": "north-korea",
     "code": "(PRK)",
     "factor": "2.17391"
   },
   {
     "country": "Spain",
+    "countryId": "spain",
     "code": "(ESP)",
     "factor": "1.08696"
   },
   {
     "country": "Brazil",
+    "countryId": "brazil",
     "code": "(BRA)",
     "factor": "1.21951"
   },
   {
     "country": "South Africa",
+    "countryId": "south-africa",
     "code": "(RSA)",
     "factor": "2.32558"
   },
   {
     "country": "Ethiopia",
+    "countryId": "ethiopia",
     "code": "(ETH)",
     "factor": "2.27273"
   },
   {
     "country": "Croatia",
+    "countryId": "croatia",
     "code": "(CRO)",
     "factor": "2.43902"
   },
   {
     "country": "Belarus",
+    "countryId": "belarus",
     "code": "(BLR)",
     "factor": "1.66667"
   },
   {
     "country": "Romania",
+    "countryId": "romania",
     "code": "(ROU)",
     "factor": "1.96078"
   },
   {
     "country": "Kenya",
+    "countryId": "kenya",
     "code": "(KEN)",
     "factor": "1.81818"
   },
   {
     "country": "Denmark",
+    "countryId": "denmark",
     "code": "(DEN)",
     "factor": "2.04082"
   },
   {
     "country": "Azerbaijan",
+    "countryId": "azerbaijan",
     "code": "(AZE)",
     "factor": "2.08333"
   },
   {
     "country": "Poland",
+    "countryId": "poland",
     "code": "(POL)",
     "factor": "2.08333"
   },
   {
     "country": "Switzerland",
+    "countryId": "switzerland",
     "code": "(SUI)",
     "factor": "3.33333"
   },
   {
     "country": "Lithuania",
+    "countryId": "lithuania",
     "code": "(LTU)",
     "factor": "3.22581"
   },
   {
     "country": "Norway",
+    "countryId": "norway",
     "code": "(NOR)",
     "factor": "3.57143"
   },
   {
     "country": "Tunisia",
+    "countryId": "tunisia",
     "code": "(TUN)",
     "factor": "4.34783"
   },
   {
     "country": "Canada",
+    "countryId": "canada",
     "code": "(CAN)",
     "factor": "1.40845"
   },
   {
     "country": "Sweden",
+    "countryId": "sweden",
     "code": "(SWE)",
     "factor": "2.56410"
   },
   {
     "country": "Colombia",
+    "countryId": "colombia",
     "code": "(COL)",
     "factor": "2.70270"
   },
   {
     "country": "Georgia",
+    "countryId": "georgia",
     "code": "(GEO)",
     "factor": "2.94118"
   },
   {
     "country": "Mexico",
+    "countryId": "mexico",
     "code": "(MEX)",
     "factor": "2.94118"
   },
   {
     "country": "Turkey",
+    "countryId": "turkey",
     "code": "(TUR)",
     "factor": "4.34783"
   },
   {
     "country": "Ireland",
+    "countryId": "ireland",
     "code": "(IRL)",
     "factor": "3.70370"
   },
   {
     "country": "Argentina",
+    "countryId": "argentina",
     "code": "(ARG)",
     "factor": "4.76190"
   },
   {
     "country": "Serbia",
+    "countryId": "serbia",
     "code": "(SRB)",
     "factor": "4.76190"
   },
   {
     "country": "Slovenia",
+    "countryId": "slovenia",
     "code": "(SLO)",
     "factor": "4.76190"
   },
   {
     "country": "Dominican Republic",
+    "countryId": "dominican-republic",
     "code": "(DOM)",
     "factor": "6.66667"
   },
   {
     "country": "Trinidad and Tobago",
+    "countryId": "trinidad-and tobago",
     "code": "(TRI)",
     "factor": "5.26316"
   },
   {
     "country": "Uzbekistan",
+    "countryId": "uzbekistan",
     "code": "(UZB)",
     "factor": "6.25000"
   },
   {
     "country": "Latvia",
+    "countryId": "latvia",
     "code": "(LAT)",
     "factor": "7.69231"
   },
   {
     "country": "Algeria",
+    "countryId": "algeria",
     "code": "(ALG)",
     "factor": "10.00000"
   },
   {
     "country": "Bahamas",
+    "countryId": "bahamas",
     "code": "(BAH)",
     "factor": "10.00000"
   },
   {
     "country": "Grenada",
+    "countryId": "grenada",
     "code": "(GRN)",
     "factor": "10.00000"
   },
   {
     "country": "Uganda",
+    "countryId": "uganda",
     "code": "(UGA)",
     "factor": "10.00000"
   },
   {
     "country": "Venezuela",
+    "countryId": "venezuela",
     "code": "(VEN)",
     "factor": "10.00000"
   },
   {
     "country": "India",
+    "countryId": "india",
     "code": "(IND)",
     "factor": "4.54545"
   },
   {
     "country": "Mongolia",
+    "countryId": "mongolia",
     "code": "(MGL)",
     "factor": "5.26316"
   },
   {
     "country": "Thailand",
+    "countryId": "thailand",
     "code": "(THA)",
     "factor": "6.25000"
   },
   {
     "country": "Egypt",
+    "countryId": "egypt",
     "code": "(EGY)",
     "factor": "10.00000"
   },
   {
     "country": "Slovakia",
+    "countryId": "slovakia",
     "code": "(SVK)",
     "factor": "7.14286"
   },
   {
     "country": "Armenia",
+    "countryId": "armenia",
     "code": "(ARM)",
     "factor": "9.09091"
   },
   {
     "country": "Belgium",
+    "countryId": "belgium",
     "code": "(BEL)",
     "factor": "9.09091"
   },
   {
     "country": "Finland",
+    "countryId": "finland",
     "code": "(FIN)",
     "factor": "9.09091"
   },
   {
     "country": "Bulgaria",
+    "countryId": "bulgaria",
     "code": "(BUL)",
     "factor": "12.50000"
   },
   {
     "country": "Estonia",
+    "countryId": "estonia",
     "code": "(EST)",
     "factor": "12.50000"
   },
   {
     "country": "Indonesia",
+    "countryId": "indonesia",
     "code": "(INA)",
     "factor": "12.50000"
   },
   {
     "country": "Malaysia",
+    "countryId": "malaysia",
     "code": "(MAS)",
     "factor": "12.50000"
   },
   {
     "country": "Puerto Rico",
+    "countryId": "puerto-rico",
     "code": "(PUR)",
     "factor": "12.50000"
   },
   {
     "country": "Chinese Taipei",
+    "countryId": "chinese-taipei",
     "code": "(TPE)",
     "factor": "12.50000"
   },
   {
     "country": "Botswana",
+    "countryId": "botswana",
     "code": "(BOT)",
     "factor": "20.00000"
   },
   {
     "country": "Cyprus",
+    "countryId": "cyprus",
     "code": "(CYP)",
     "factor": "20.00000"
   },
   {
     "country": "Gabon",
+    "countryId": "gabon",
     "code": "(GAB)",
     "factor": "20.00000"
   },
   {
     "country": "Guatemala",
+    "countryId": "guatemala",
     "code": "(GUA)",
     "factor": "20.00000"
   },
   {
     "country": "Montenegro",
+    "countryId": "montenegro",
     "code": "(MNE)",
     "factor": "20.00000"
   },
   {
     "country": "Portugal",
+    "countryId": "portugal",
     "code": "(POR)",
     "factor": "20.00000"
   },
   {
     "country": "Greece",
+    "countryId": "greece",
     "code": "(GRE)",
     "factor": "16.66667"
   },
   {
     "country": "Moldova",
+    "countryId": "moldova",
     "code": "(MDA)",
     "factor": "16.66667"
   },
   {
     "country": "Qatar",
+    "countryId": "qatar",
     "code": "(QAT)",
     "factor": "16.66667"
   },
   {
     "country": "Singapore",
+    "countryId": "singapore",
     "code": "(SIN)",
     "factor": "16.66667"
   },
   {
     "country": "Afghanistan",
+    "countryId": "afghanistan",
     "code": "(AFG)",
     "factor": 20
   },
   {
     "country": "Bahrain",
+    "countryId": "bahrain",
     "code": "(BRN)",
     "factor": 20
   },
   {
     "country": "Hong Kong",
+    "countryId": "hong-kong",
     "code": "(HKG)",
     "factor": 20
   },
   {
     "country": "Saudi Arabia",
+    "countryId": "saudi-arabia",
     "code": "(KSA)",
     "factor": 20
   },
   {
     "country": "Kuwait",
+    "countryId": "kuwait",
     "code": "(KUW)",
     "factor": 20
   },
   {
     "country": "Morocco",
+    "countryId": "morocco",
     "code": "(MAR)",
     "factor": 20
   },
   {
     "country": "Tajikistan",
+    "countryId": "tajikistan",
     "code": "(TJK)",
     "factor": 20
   }

@@ -58,6 +58,7 @@ function generateFactors(jsonData) {
 
     var obj = {
       country: jsonData[i].country,
+      countryId: jsonData[i].country.toLowerCase().replace(' ', '-'),
       code: jsonData[i].code,
       factor: factor
     };
