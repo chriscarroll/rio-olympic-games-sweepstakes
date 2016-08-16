@@ -5,6 +5,7 @@ app.controller('mainController', function($scope, $http, $q) {
   var GOLD_POINTS = 10;
   var SILVER_POINTS = 5;
   var BRONZE_POINTS = 3;
+  var MAX_POINTS_FACTOR = 20;
 
   $scope.results = [];
 
@@ -18,7 +19,7 @@ app.controller('mainController', function($scope, $http, $q) {
       var countries = results[0].data[i].countries;
       var points = 0;
       for (var j = 0, countriesLength = countries.length; j < countriesLength; j++) {
-        var factor = 0;
+        var factor = MAX_POINTS_FACTOR;
           // TODO: replace with lodash find, ie: _.find(results, {countryId: value});
           angular.forEach(results[1].data, function(valueB, index) {
             if (valueB.id === countries[j]) {
